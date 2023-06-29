@@ -1,0 +1,44 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.App {
+    display: inline-flexbox;
+    width: 60%;
+}
+
+.foodCard {
+    display: flex;
+    border: 1px black solid;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.btnAdd {
+    background-color: black;
+    color: yellow;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+
+
+}
+.meni{
+display: block;
+width: 60%;
+}
+.home{
+    display: flex;
+    width: 100%;
+    }
+    .korpa{
+        border: 1px solid black;
+        margin: 20px;
+        padding: 10px;
+        text-align: center;
+        width: 20%;
+        }

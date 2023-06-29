@@ -1,0 +1,23 @@
+
+
+
+.navbar {
+color: coral;
+padding:20px ;
+background-color: coral;
+text-align: end;
+}
+.navbar a{
+    color: black;
+    padding:20px ;
+    text-decoration: dashed ;
+   padding: 5px;
+   margin: 5px;
+   border: 1px dashed;
+   border-radius: 5px;
+    }
+    .active {
+background-color: aquamarine;
+color: darkcyan !important;
+
+    }
